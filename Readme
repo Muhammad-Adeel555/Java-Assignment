@@ -1,0 +1,33 @@
+# 🧮 Basic Arithmetic Calculator – Java Console App
+
+This is a simple command-line calculator built in Java that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+---
+
+## 🚀 Features
+
+- Takes input in the form: `number operator number` (e.g., `5 + 3`)
+- Handles:
+  - Addition `+`
+  - Subtraction `-`
+  - Multiplication `*`
+  - Division `/` (with division-by-zero check)
+- Friendly output messages
+- Great for beginners learning:
+  - Java syntax
+  - Conditional logic (`switch-case`)
+  - User input using `Scanner`
+
+---
+
+## 🧠 How It Works
+
+1. The program prompts the user to enter an arithmetic expression.
+2. It reads the first number, the operator, and the second number.
+3. Based on the operator, it performs the operation and shows the result.
+4. Includes basic validation for invalid operators and division by zero.
+
+---
+
+## 📁 File Structure
+
